@@ -1,0 +1,26 @@
+{
+	"auto_upgrade_last_run": 1349759485,
+	"installed_packages":
+	[
+    "JsFormat",
+    "JSHint",
+		"Git",
+		"IndentGuides",
+		"Package Control",
+		"RubyFormat",
+    "SublimeLinter"
+	]
+  
+  // I need to test before install
+  // [
+  //   "All Autocomplete",
+  //   "EJS",
+  //   "jQuery",
+  //   "Markdown Preview",
+  //   "Package Control",
+  //   "RSpec",
+  //   "RstPreview",
+  //   "SublimeCodeIntel",
+  //   "SVN"
+  // ]
+}
