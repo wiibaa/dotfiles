@@ -1,17 +1,19 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
-  "draw_white_space": "all",
-	"font_size": 11,
+    "default_line_ending": "LF",	
+    "draw_white_space": "all",
+    "ensure_newline_at_eof_on_save": true,
+	"font_size": 9,
   "highlight_line": true,
   "ignored_packages":
   [
     "Vintage"
   ],
-	"rulers":
-	[
-		80
-	],
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
+  "rulers":
+  [
+    80
+  ],
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true
 }

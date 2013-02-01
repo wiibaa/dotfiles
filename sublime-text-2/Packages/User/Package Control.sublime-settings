@@ -1,14 +1,17 @@
 {
-	"auto_upgrade_last_run": 1349759485,
+	"auto_upgrade": false,
 	"installed_packages":
 	[
-    "JsFormat",
-    "JSHint",
+		"DetectSyntax",
 		"Git",
 		"IndentGuides",
+		"JsFormat",
+		"JSHint",
 		"Package Control",
+		"RSpec",
 		"RubyFormat",
-    "SublimeLinter"
+		"SideBarEnhancements",
+		"SublimeLinter"
 	]
   
   // I need to test before install
